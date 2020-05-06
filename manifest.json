@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "My First Extension",
+    "description": "Minha primeira extensão com Hello World",
+    "author": "Samuel França",
+    "browser_action": {
+   	 "default_title": "My Extension",
+   	 "default_popup": "index.html",
+   	 "default_icon": "icon.png"
+    }
+}
